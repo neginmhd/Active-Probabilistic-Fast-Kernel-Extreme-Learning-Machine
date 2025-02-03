@@ -63,6 +63,10 @@ The code performs the following steps:
   - Calculates performance metrics after each query.
   - Saves metrics to an Excel file.
   - Generates plots to compare the sampling strategies.
+- **Results:**
+
+    <img width="721" alt="image" src="https://github.com/user-attachments/assets/fbf1eec2-5e8c-4c16-9a66-f485fec525e6" />
+
 
 ## Requirements
 
